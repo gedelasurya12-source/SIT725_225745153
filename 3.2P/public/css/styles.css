@@ -1,0 +1,33 @@
+body{
+    background:#f5f5f5;
+}
+
+nav{
+    margin-bottom:30px;
+}
+
+h3{
+    font-weight:600;
+    margin-bottom:40px;
+}
+
+.card{
+    border-radius:12px;
+}
+
+.card-image img{
+    height:220px;
+    object-fit:cover;
+}
+
+.card-content{
+    min-height:140px;
+}
+
+.card-title{
+    font-weight:bold !important;
+}
+
+.page-footer{
+    margin-top:40px;
+}

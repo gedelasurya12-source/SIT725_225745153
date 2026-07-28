@@ -1,0 +1,22 @@
+{
+  "name": "sit725-task-3-2p",
+  "version": "1.0.0",
+  "description": "SIT725 Task 3.2P Recipe Explorer Web Application",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "Express",
+    "Materialize",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Surya Gedela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
